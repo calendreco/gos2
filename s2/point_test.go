@@ -1,10 +1,11 @@
 package s2
 
 import (
-	"github.com/davidreynolds/gos2/r3"
 	"log"
 	"math"
 	"testing"
+
+	"github.com/calendreco/gos2/r3"
 )
 
 // float64Near reports if the two values are within the given epsilon.

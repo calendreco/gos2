@@ -1,7 +1,7 @@
 package r3
 
 import (
-	"github.com/davidreynolds/gos2/exactfloat"
+	"github.com/calendreco/gos2/exactfloat"
 )
 
 type Vector3_xf struct {

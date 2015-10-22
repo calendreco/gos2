@@ -1,9 +1,10 @@
 package s2
 
 import (
-	"github.com/davidreynolds/gos2/r3"
 	"math"
 	"testing"
+
+	"github.com/calendreco/gos2/r3"
 )
 
 func pc(x, y, z float64) Point { return Point{r3.Vector{x, y, z}} }

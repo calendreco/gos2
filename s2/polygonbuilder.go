@@ -4,7 +4,7 @@ import (
 	"log"
 	"sort"
 
-	"github.com/davidreynolds/gos2/s1"
+	"github.com/calendreco/gos2/s1"
 )
 
 type Edge struct {

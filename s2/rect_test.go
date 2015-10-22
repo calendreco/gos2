@@ -4,8 +4,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/davidreynolds/gos2/r1"
-	"github.com/davidreynolds/gos2/s1"
+	"github.com/calendreco/gos2/r1"
+	"github.com/calendreco/gos2/s1"
 )
 
 func TestArea(t *testing.T) {

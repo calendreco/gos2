@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/davidreynolds/gos2/r3"
-	"github.com/davidreynolds/gos2/s1"
+	"github.com/calendreco/gos2/r3"
+	"github.com/calendreco/gos2/s1"
 )
 
 func makepolygon(s string) *Polygon {
