@@ -6,7 +6,9 @@ const (
 	// By default, the covering uses at most 8 cells at any level. This
 	// gives a reasonable tradeoff between the number of cells used and the
 	// accuracy of the approximation.
-	defaultMaxCells = 8
+	// NOTE(adamalix): we've forked to 30 to increase fidelity of our
+	// queries
+	defaultMaxCells = 30
 )
 
 type Candidate struct {
